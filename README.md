@@ -1,4 +1,4 @@
-#👋 Hello, I am Swapnil Mali.
+# 👋 Hello, I am Swapnil Mali.
 ## ❤️ I am Web Developer
 
 - 🌱 My tech stack is HTML5, CSS3, Javascript
