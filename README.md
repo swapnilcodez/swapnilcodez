@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @swapnilcodez
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently bettering in C#, .NET MVC, React
+#👋 Hello, I am Swapnil Mali.
+## ❤️ I am Web Developer
+
+- 🌱 My tech stack is HTML5, CSS3, Javascript
+- 🌱 C#, NodeJs, Typescript, React, Docker
 
