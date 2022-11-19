@@ -4,3 +4,5 @@
 - 🌱 My tech stack is HTML5, CSS3, Javascript
 - 🌱 C#, NodeJs, Typescript, React
 - 🌱 SQL, Docker, Azure Services
+
+[https://www.swapnilmali.com/] blog
