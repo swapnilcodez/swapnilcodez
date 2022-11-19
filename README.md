@@ -5,4 +5,4 @@
 - 🌱 C#, NodeJs, Typescript, React
 - 🌱 SQL, Docker, Azure Services
 
-[https://www.swapnilmali.com/] blog
+[Blog](https://www.swapnilmali.com/)
