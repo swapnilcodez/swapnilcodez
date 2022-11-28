@@ -1,9 +1,12 @@
 # 👋 Hello, I'm Swapnil Mali.
-## ❤️ I'm Web Developer
+## ❤️ I'm Full-stack Web Developer
 
-- 🌱 My tech stack is HTML5, CSS3, Javascript
-- 🌱 C#, NodeJs, Typescript, React
-- 🌱 SQL, Docker, Azure Services
+- 🌱 My tech stack is 
+- 🌱 Frontend - HTML5, CSS3, Javascript, Typescript
+- 🌱 Backend - C#, SQL, Azure Services 
+- 🌱 Framework - .NET, Node.js, React, NEXT.js, Tailwindcss
+- 🌱 Database - Sql Server, MySQL, PostgresSQL, MongoDB 
+- 🌱 Others - Git, Docker, Azure DevOps, Azure Functions 
 
 ## 🔗My Links
 
